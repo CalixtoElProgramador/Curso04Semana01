@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Curso04Semana01</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_label_1">Photos</string>
+    <string name="text_label_2">Videos</string>
+    <string name="two_days_ago">Two days ago</string>
+    <string name="caption">Caption</string>
 </resources>
